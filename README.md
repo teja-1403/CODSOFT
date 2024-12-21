@@ -11,3 +11,9 @@ I currently enrolled in Machine Learning intern and willing to apply my knowledg
 MOVIE GENRE CLASSIFICATION: Create a machine learning model that can predict the genre of a movie based on its plot summary or other textual information. You can use techniques like TF-IDF or word embeddings with classifiers such as Naive Bayes, Logistic Regression, or Support Vector Machines.
 
 DATASET: [CLICK HERE](https://www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb)
+
+**TASK 4**
+
+SPAM SMS DETECTION: Build an AI model that can classify SMS messages as spam or legitimate. Use techniques like TF-IDF or word embeddings with classifiers like Naive Bayes, Logistic Regression, or Support Vector Machines to identify spam messages.
+
+DATASET: [CLICK HERE](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
